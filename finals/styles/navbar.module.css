@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+}
+
+
+.signout_btn,
+.p_user, .back_btn {
+
+    color: white;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+  background: transparent;
+  border: none;
+  font-size: 28px;
+}
+
